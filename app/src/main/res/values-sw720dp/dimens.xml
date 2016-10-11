@@ -7,4 +7,5 @@
     <dimen name="h1">56sp</dimen>
     <dimen name="block">720dp</dimen>
     <dimen name="padding">20dp</dimen>
+    <dimen name="logo_width">300dp</dimen>
 </resources>
