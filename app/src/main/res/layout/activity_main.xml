@@ -61,7 +61,7 @@
             android:id="@+id/editText"
             android:hint="@string/user"
             android:layout_margin="@dimen/margin"
-            android:textSize="@dimen/h2" />
+            android:textSize="@dimen/h_button" />
 
         <EditText
             android:layout_width="match_parent"
@@ -71,7 +71,7 @@
             android:hint="@string/password"
             android:inputType="textPassword"
             android:layout_margin="@dimen/margin"
-            android:textSize="@dimen/h2" />
+            android:textSize="@dimen/h_button" />
 
     </LinearLayout>
 
